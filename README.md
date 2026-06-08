@@ -11,6 +11,9 @@
   <a href="https://github.com/Fettache">
     <img src="https://img.shields.io/badge/GitHub-Fettache-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="mailto:simofettache@hotmail.fr">
+    <img src="https://img.shields.io/badge/Email-simofettache%40hotmail.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -79,19 +82,29 @@ Currently, I am especially interested in:
 
 ## GitHub Overview
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fettache&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fettache&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+| Area | What I build |
+| --- | --- |
+| AI / Machine Learning | Classification models, anomaly detection, NLP pipelines and Computer Vision algorithms |
+| IoT Security | MQTT intrusion detection with ESP32, Mosquitto, FastAPI and real-time dashboards |
+| Web Applications | React dashboards, Streamlit apps, PHP/MySQL mini e-commerce projects |
+| Documentation | Clean README files, setup steps, reproducible project structure and technical explanations |
+
+Main languages and tools used across my repositories:
+
+```text
+Python | JavaScript | React | FastAPI | Streamlit | PHP | MySQL
+scikit-learn | TensorFlow | XGBoost | spaCy | NumPy | pandas
+MQTT | ESP32 | Arduino | Git | GitHub
+```
 
 ## Contact
 
 - LinkedIn: [Mohamed Fettache](https://www.linkedin.com/in/mohamed-fettache-308115358/)
 - GitHub: [Fettache](https://github.com/Fettache)
+- Email: [simofettache@hotmail.fr](mailto:simofettache@hotmail.fr)
 
 ---
 
 <p align="center">
   Building practical AI, IoT and web projects one iteration at a time.
 </p>
-
